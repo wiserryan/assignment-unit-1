@@ -9,3 +9,16 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+html, {
+    background-color: purple;}
+header{
+    text-align: left;
+    background-color:black;
+    color: pink;
+    padding: 12px 32px;
+}
+footer{
+    background-color: black;
+    color: yellow ;
+
+}
